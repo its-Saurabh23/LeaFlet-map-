@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+#map {
+    height: 100vh;
+    width: 75%;
+}
